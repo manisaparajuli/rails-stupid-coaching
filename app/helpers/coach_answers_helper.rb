@@ -1,0 +1,2 @@
+module CoachAnswersHelper
+end
